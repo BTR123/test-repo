@@ -1,4 +1,7 @@
 Random file
+<<<<<<< HEAD
 Another change
 Branch commit
-try 2
+=======
+Another line
+>>>>>>> 8a464b9b8eb9824436a370225b9140e0987315f4
